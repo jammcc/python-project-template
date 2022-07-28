@@ -1,0 +1,4 @@
+# install these for running pre-commit, then remove from requirements
+black
+flake8
+pre-commit
